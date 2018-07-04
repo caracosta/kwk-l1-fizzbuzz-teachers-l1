@@ -1,4 +1,6 @@
 def fizzbuzz(number)
-  6 % 3
+  if number % 3 == 0
+    if number % 5 == 0 
+  end
   
 end
